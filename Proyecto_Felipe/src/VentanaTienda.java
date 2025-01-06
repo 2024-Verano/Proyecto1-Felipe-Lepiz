@@ -484,7 +484,7 @@ public class VentanaTienda extends javax.swing.JFrame {
         props.put("mail.smtp.starttls.enable", "true");
         props.put("mail.smtp.ssl.trust", "smtp.gmail.com");
 
-        final String remitente = "tiendatec178@gmail.com"; // Cambia al correo del remitente
+        final String remitente = "tiendatec178@gmail.com"; // correo del remitente
         final String contraAPP = "yexyujhzdxldyqes";       // Contraseña de aplicación
 
         try {
